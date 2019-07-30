@@ -22,7 +22,7 @@ Language Interpretation and Recognition Interface (LIRI for short) is be a comma
 
 ### Launch
 
-Download repo and create a .env file containing the following Spotify keys (make sure to exclude quotes from your keys):
+Download repo into a new directory and create a .env file containing the following Spotify keys (make sure to exclude quotes from your keys):
 
 ```js
 # Spotify API keys
