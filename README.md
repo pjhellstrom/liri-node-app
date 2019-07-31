@@ -3,7 +3,7 @@ Language Interpretation and Recognition Interface (or LIRI for short) is a comma
 
 ### Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IvFgERVwQFw
-" target="_empty"><img src="http://img.youtube.com/vi/IvFgERVwQFw/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/IvFgERVwQFw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 ### Requirements
