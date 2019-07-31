@@ -1,6 +1,9 @@
 # LIRI Bot
 Language Interpretation and Recognition Interface (or LIRI for short) is a command line node app that searches Spotify for songs, Bands in Town for concerts, and OMDB for movies. Inquirer is used to simplify user input while Node-Spotify-API and Axios are used to submit API requests.
 
+### Demo
+[![Watch the video](https://youtu.be/IvFgERVwQFw)
+
 ### Requirements
 
   * [Node.js](https://nodejs.org/) LTS (v10)
