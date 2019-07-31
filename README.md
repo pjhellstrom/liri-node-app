@@ -2,7 +2,7 @@
 Language Interpretation and Recognition Interface (or LIRI for short) is a command line node app that searches Spotify for songs, Bands in Town for concerts, and OMDB for movies. Inquirer is used to simplify user input while Node-Spotify-API and Axios are used to submit API requests.
 
 ### Demo
-[![Watch the video](https://youtu.be/IvFgERVwQFw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IvFgERVwQFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Requirements
 
